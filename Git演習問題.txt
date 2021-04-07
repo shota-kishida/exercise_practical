@@ -4,4 +4,6 @@ Gitの演習問題です。
 
 git revert用の文言追加です。
 
+branch_1での作業です。
+
 
